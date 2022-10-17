@@ -1,0 +1,47 @@
+body {
+    height: 1800px;
+    background-image: url("pexels-pixabay-50594.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+}
+
+table, th, td{
+    border: 1px solid black;
+    border-collapse:collapse;
+    padding: 5px;
+    margin: 5px 0 10px 0;
+    font-size: 1.2rem;
+    text-align: center;
+}
+thead{
+    font-weight: bold;
+}
+.mafe{
+    background-color:rgb(230, 217, 230);
+    border-radius: 15px;
+
+}
+
+.fer{
+    background-color:rgb(217, 230, 218);
+    border-radius: 15px;
+
+}
+
+.Roj{
+    background-color:rgb(230, 218, 217);
+    border-radius: 15px;
+
+}
+
+.ca {
+    background-color: rgb(230, 219, 258);
+    border-radius: 15px;
+}
+
+.ma{
+    background-color:rgb(230, 209, 268);
+    border-radius: 15px;
+
+}
